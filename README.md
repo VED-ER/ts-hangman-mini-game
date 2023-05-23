@@ -13,7 +13,7 @@ A simple hangman game
 - playable with keyboard and clicks
 
 ## Screenshot
-<img width="1300" alt="Screenshot 2023-05-23 at 20 44 04" src="https://github.com/VED-ER/ts-hangman-mini-game/assets/92994473/62978f5c-6d3f-42e1-9beb-4ca5faa702dd">
+<img width="1316" alt="Screenshot 2023-05-23 at 20 47 02" src="https://github.com/VED-ER/ts-hangman-mini-game/assets/92994473/9a108e37-5733-43f3-8930-9c7b54e81eb6">
 
 
 
